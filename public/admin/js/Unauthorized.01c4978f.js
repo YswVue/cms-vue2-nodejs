@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_cms_admin"]=self["webpackChunkvue2_cms_admin"]||[]).push([[411],{3493:function(n,u,e){e.r(u),e.d(u,{default:function(){return a}});var l=function(){var n=this,u=n._self._c;return u("h1",[n._v("无权限访问")])},s=[],t=e(1001),c={},r=(0,t.Z)(c,l,s,!1,null,null,null),a=r.exports}}]);
+//# sourceMappingURL=Unauthorized.01c4978f.js.map
