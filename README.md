@@ -36,3 +36,7 @@ $ npm start
 ```
 http://localhost:3001/api/
 ```
+## 项目预览
+```
+http://localhost:3001/admin/#/
+```
